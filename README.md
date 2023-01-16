@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **code review**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jelon1211](https://github.com/Jelon1211)
+- 👨‍💻 All of my projects are available at [https://dominik-j-projects.netlify.app/](https://dominik-j-projects.netlify.app/)
 
-- 💬 Ask me about **any project**
+- 💬 My portfolio page is available at [https://dj-portfolio-game.netlify.app/](https://dj-portfolio-game.netlify.app/) / PC Recommended
 
 - 📫 How to reach me **jelon1211@gmail.com**
 
