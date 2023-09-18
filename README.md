@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jelon1211&label=Profile%20views&color=0e75b6&style=flat" alt="jelon1211" /> </p>
 
-- 🔭 I’m currently working at [WizjaNet](https://www.wizja.net/)
+- 🔭 I’m currently working at [Paymento Financial](https://paymento.eu/pl/)
 
-- 🌱 I’m currently learning **React, TypeScript, ExpressJs, MongoDB**
+- 🌱 I’m currently learning **NextJS 13 - MongoDB - Vue**
 
 - 👯 I’m looking to collaborate on **Mern Stack projects**
 
-- 🤝 I’m looking for help with **code review**
+- 🤝 I’m looking for **collaboration**
 
-- 👨‍💻 All of my projects are available at [https://dominik-j-projects.netlify.app/](https://dominik-j-projects.netlify.app/)
+- 👨‍💻 Most of my projects are available at [https://dominik-j-projects.netlify.app/](https://dominik-j-projects.netlify.app/)
 
 - 💬 My portfolio page is available at [https://dj-portfolio-game.netlify.app/](https://dj-portfolio-game.netlify.app/) / PC Recommended
 
