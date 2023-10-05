@@ -11,9 +11,7 @@
 
 - 🤝 I’m looking for **collaboration**
 
-- 👨‍💻 Most of my projects are available at [https://dominik-j-projects.netlify.app/](https://dominik-j-projects.netlify.app/)
-
-- 💬 My portfolio page is available at [https://dj-portfolio-game.netlify.app/](https://dj-portfolio-game.netlify.app/) / PC Recommended
+- 👨‍💻 My portfolio page is available at [https://dj-portfolio-game.netlify.app/](https://dj-portfolio-game.netlify.app/) / PC Recommended
 
 - 📫 How to reach me **jelon1211@gmail.com**
 
