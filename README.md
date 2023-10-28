@@ -13,7 +13,7 @@
 
 - 👨‍💻 My portfolio page is available at [https://dj-portfolio-game.netlify.app/](https://dj-portfolio-game.netlify.app/) / PC Recommended
 
-- 📫 How to reach me **jelon1211@gmail.com**
+- 📫 How to reach me **jelon1211@gmail.com** / **504-941-510**
 
 - ⚡ Fun fact **I love swordplay 🤺**
 
